@@ -1,0 +1,12 @@
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\Users\Igor\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+C:\Users\Igor\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\Users\Igor\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+C:\Users\Igor\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb

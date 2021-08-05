@@ -1,0 +1,16 @@
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinTree.exe
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinTree.deps.json
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinTree.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinTree.runtimeconfig.dev.json
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinTree.dll
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinTree.pdb
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.csprojAssemblyReference.cache
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.csproj.CopyComplete
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.dll
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.pdb
+C:\Users\Игорь\Documents\GitHub\_\Курсовой проект\BinarySearchTree\BinTree\obj\Debug\netcoreapp3.1\BinTree.genruntimeconfig.cache
